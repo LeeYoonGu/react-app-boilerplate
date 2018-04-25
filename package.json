@@ -50,8 +50,6 @@
     "simple-assign": "0.1.0",
     "warning": "3.0.0",
     "whatwg-fetch": "2.0.3",
-    "luna-rocket": "git+http://git.duzon.com/ui/npm-luna-rocket.git#1.2.0",
-    "immutable": "^3.8.1",
-    "luxdatagrid": "git+http://git.duzon.com/ui/LUXDataGrid.git#0.0.1"
+    "immutable": "^3.8.1"
   }
 }
